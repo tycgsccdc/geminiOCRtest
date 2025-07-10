@@ -7,7 +7,7 @@ gemini_1.5_flash_output和gemini_2.5_pro_output 執行OCR測試結果
 
 1. 
 
-[第1張圖](input/1.png)
+![第1張圖](input/1.png)
 gemini_1.5_flash <font color="red">**錯1字**</font>
 O:今天天氣很好，我們下午去公園散步。 <font color="blue">**正確**</font>
 O:請在下午3點前，到A棟201號會議室開會。
@@ -23,7 +23,7 @@ O:你真的相信「天下沒有白吃的午餐」這句話嗎？ <font color="b
 
 2. 
 
-[第2張圖](input/2.png)
+![第2張圖](input/2.png)
 gemini_1.5_flash <font color="red">**錯2字，少5字**</font>
 O:今天天氣很好，我們下午去公園散步。 <font color="blue">**正確**</font>
 O:請在下午3點前，到A棟201號會議室開會。
@@ -43,7 +43,7 @@ X:你真的相信<font color="green">**「**</font>天下沒有白吃的午餐<f
 
 3. 
 
-[第3張圖](input/3.png)
+![第3張圖](input/3.png)
 
 gemini_1.5_flash <font color="red">**錯1字**</font>
 O:今天天氣很好，我們下午去公園散步 <font color="blue">**正確**</font>
@@ -61,7 +61,7 @@ x秋天的楓橋下沒有南宮的字據，這句詩嗎？  <font color="red">**
 
 4. 
 
-[第4張圖](input/4.png)
+![第4張圖](input/4.png)
 gemini_1.5_flash<font color="blue">**全對**</font>
 今天天氣很好，我們下午去公園散步。<font color="blue">**正確**</font>
 請在下午3點前，到A棟201號會議室開會。<font color="blue">**正確**</font>
