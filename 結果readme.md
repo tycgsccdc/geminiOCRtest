@@ -1,25 +1,22 @@
-gemini_1.5_flash_output和gemini_2.5_pro_output 執行OCR測試結果
+#gemini_1.5_flash_output和gemini_2.5_pro_output 執行OCR測試結果
 
-
-
-
-
+-------------------------
 
 1. 
 
 ![第1張圖](input/1.png)
-gemini_1.5_flash <font color="red">**錯1字**</font>
-O:今天天氣很好，我們下午去公園散步。 <font color="blue">**正確**</font>
-O:請在下午3點前，到A棟201號會議室開會。
-X:請在下午3點前，到<font color="red">**日**</font>棟201號會議室開會。
-O:我辨認出臺灣的鳳梨酥包裝袋很精緻。 <font color="blue">**正確**</font>
-O:你真的相信「天下沒有白吃的午餐」這句話嗎？ <font color="blue">**正確**</font>
+gemini_1.5_flash <font color="red">**錯1字**</font></br>
+O:今天天氣很好，我們下午去公園散步。 <font color="blue">**正確**</font></br>
+O:請在下午3點前，到A棟201號會議室開會。</br>
+X:請在下午3點前，到<font color="red">**日**</font>棟201號會議室開會。</br>
+O:我辨認出臺灣的鳳梨酥包裝袋很精緻。 <font color="blue">**正確**</font></br>
+O:你真的相信「天下沒有白吃的午餐」這句話嗎？ <font color="blue">**正確**</font></br>
 
-gemini_2.5_pro <font color="blue">**全對**</font>
-O:今天天氣很好，我們下午去公園散步。 <font color="blue">**正確**</font>
-O:請在下午3點前，到A棟201號會議室開會。 <font color="blue">**正確**</font>
-O:我辨認出臺灣的鳳梨酥包裝袋很精緻。 <font color="blue">**正確**</font>
-O:你真的相信「天下沒有白吃的午餐」這句話嗎？ <font color="blue">**正確**</font>
+gemini_2.5_pro <font color="blue">**全對**</font></br>
+O:今天天氣很好，我們下午去公園散步。 <font color="blue">**正確**</font></br>
+O:請在下午3點前，到A棟201號會議室開會。 <font color="blue">**正確**</font></br>
+O:我辨認出臺灣的鳳梨酥包裝袋很精緻。 <font color="blue">**正確**</font></br>
+O:你真的相信「天下沒有白吃的午餐」這句話嗎？ <font color="blue">**正確**</font></br>
 
 2. 
 
