@@ -1,4 +1,4 @@
-# gemini_1.5_flash_output和gemini_2.5_pro_output 執行OCR測試結果
+# gemini_1.5_flash和gemini_2.5_pro 執行OCR測試結果
 
 ## 1.
 
