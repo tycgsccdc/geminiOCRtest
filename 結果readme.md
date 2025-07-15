@@ -39,7 +39,7 @@ gemini_ocr.py,readme.md撰寫 (GEMIMI CLI)
 ![第1張圖](input/1.png)
 ### gemini_1.5_flash <font color="red">**錯1字**</font></br>
 
-![第1張圖](input/1_1.5.png)
+![第1張圖比對](input/1_1.5.png)
 
 
 ### gemini_2.5_pro <font color="blue">**全對**</font></br>
