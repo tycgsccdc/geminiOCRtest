@@ -31,7 +31,7 @@ o	俗語/成語：看看模型在處理這種固定搭配的詞語時，是否�
 
 
 測試句子4句
-測試人數4人
+測試人數5人
 使用GOOGLE AI STUDIO APIKEY免費額度
 gemini_ocr.py,readme.md撰寫 (GEMIMI CLI)
 ```
